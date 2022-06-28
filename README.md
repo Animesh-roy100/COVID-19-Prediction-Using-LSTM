@@ -12,7 +12,7 @@ Github Repository: https://github.com/datameet/covid19
 
 The dataset has a Creative Commons Attribution 4.0 International Public License. The dataset is downloaded on 10 January 2022 and contains data up to the same date.
 
-We are using the file all_totals.JSON in the data directory.
+We are using the file all_total.JSON in the data directory.
 
 ## Application
 
